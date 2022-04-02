@@ -1,0 +1,22 @@
+[
+     {
+        "name": "Twitter Dev",
+        "screen_name": "TwitterDev",
+        "location": "Internet"
+    },
+    {
+        "name": "Lorem Ipsum",
+        "screen_name": "LoremIpsum",
+        "location": "Internet"
+    },
+    {
+        "name": "Jane Doe",
+        "screen_name": "JaneDoe",
+        "location": "Internet"
+    },
+    {
+        "name": "John Doe",
+        "screen_name": "JohnDoe",
+        "location": "Internet"
+      }
+  ]
